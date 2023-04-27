@@ -1,8 +1,8 @@
-package org.strong.json.plugin.fastjson;
+package org.strong.plugin.json.fastjson;
 
-import org.strong.json.plugin.annotation.ExcludeSensitive;
-import org.strong.json.plugin.enums.SerializeType;
-import org.strong.json.plugin.handler.DesensitizationHandler;
+import org.strong.plugin.json.annotation.ExcludeSensitive;
+import org.strong.plugin.json.enums.SerializeType;
+import org.strong.plugin.json.handler.DesensitizationHandler;
 import com.alibaba.fastjson.serializer.ValueFilter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

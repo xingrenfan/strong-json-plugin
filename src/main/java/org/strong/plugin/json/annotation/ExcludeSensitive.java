@@ -1,8 +1,8 @@
-package org.strong.json.plugin.annotation;
+package org.strong.plugin.json.annotation;
 
-import org.strong.json.plugin.enums.SerializeType;
-import org.strong.json.plugin.handler.DesensitizationHandler;
-import org.strong.json.plugin.jackson.JacksonDesensitizationSerialize;
+import org.strong.plugin.json.enums.SerializeType;
+import org.strong.plugin.json.handler.DesensitizationHandler;
+import org.strong.plugin.json.jackson.JacksonDesensitizationSerialize;
 import com.fasterxml.jackson.annotation.JacksonAnnotationsInside;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 

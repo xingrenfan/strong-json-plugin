@@ -1,4 +1,4 @@
-package org.strong.json.plugin.handler;
+package org.strong.plugin.json.handler;
 
 /**
  * 说明： 脱敏程序

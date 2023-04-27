@@ -1,4 +1,4 @@
-package org.strong.json.plugin.fastjson;
+package org.strong.plugin.json.fastjson;
 
 import cn.hutool.core.collection.ListUtil;
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -6,7 +6,7 @@ import com.fasterxml.jackson.databind.json.JsonMapper;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.strong.json.plugin.entity.User;
+import org.strong.plugin.json.entity.User;
 
 import java.util.List;
 

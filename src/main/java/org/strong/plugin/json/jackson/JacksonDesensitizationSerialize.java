@@ -1,8 +1,8 @@
-package org.strong.json.plugin.jackson;
+package org.strong.plugin.json.jackson;
 
-import org.strong.json.plugin.annotation.ExcludeSensitive;
-import org.strong.json.plugin.enums.SerializeType;
-import org.strong.json.plugin.handler.DesensitizationHandler;
+import org.strong.plugin.json.annotation.ExcludeSensitive;
+import org.strong.plugin.json.enums.SerializeType;
+import org.strong.plugin.json.handler.DesensitizationHandler;
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.BeanProperty;
 import com.fasterxml.jackson.databind.JsonMappingException;

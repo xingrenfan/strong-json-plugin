@@ -1,4 +1,4 @@
-package org.strong.json.plugin.enums;
+package org.strong.plugin.json.enums;
 
 /**
  * 说明: 序列化框架类型

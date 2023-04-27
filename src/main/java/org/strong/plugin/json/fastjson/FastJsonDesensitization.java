@@ -1,6 +1,6 @@
-package org.strong.json.plugin.fastjson;
+package org.strong.plugin.json.fastjson;
 
-import org.strong.json.plugin.handler.DesensitizationHandler;
+import org.strong.plugin.json.handler.DesensitizationHandler;
 import com.alibaba.fastjson.JSON;
 
 import java.util.Objects;

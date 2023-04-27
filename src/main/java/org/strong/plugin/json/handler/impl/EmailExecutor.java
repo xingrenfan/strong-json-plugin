@@ -1,7 +1,7 @@
-package org.strong.json.plugin.handler.impl;
+package org.strong.plugin.json.handler.impl;
 
 import cn.hutool.core.util.StrUtil;
-import org.strong.json.plugin.handler.DesensitizationHandler;
+import org.strong.plugin.json.handler.DesensitizationHandler;
 
 /**
  * 说明: 邮箱脱敏

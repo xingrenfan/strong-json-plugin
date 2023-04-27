@@ -1,8 +1,8 @@
-package org.strong.json.plugin.entity;
+package org.strong.plugin.json.entity;
 
-import org.strong.json.plugin.annotation.ExcludeSensitive;
-import org.strong.json.plugin.handler.impl.EmailExecutor;
-import org.strong.json.plugin.handler.impl.PhoneExecutor;
+import org.strong.plugin.json.annotation.ExcludeSensitive;
+import org.strong.plugin.json.handler.impl.EmailExecutor;
+import org.strong.plugin.json.handler.impl.PhoneExecutor;
 
 import java.io.Serializable;
 
